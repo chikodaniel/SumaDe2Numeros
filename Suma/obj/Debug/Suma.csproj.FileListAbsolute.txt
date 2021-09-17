@@ -1,0 +1,13 @@
+C:\Users\chico\source\repos\Suma\Suma\obj\Debug\MainWindow.g.cs
+C:\Users\chico\source\repos\Suma\Suma\obj\Debug\App.g.cs
+C:\Users\chico\source\repos\Suma\Suma\obj\Debug\Suma_MarkupCompile.cache
+C:\Users\chico\source\repos\Suma\Suma\obj\Debug\Suma_MarkupCompile.lref
+C:\Users\chico\source\repos\Suma\Suma\bin\Debug\Suma.exe
+C:\Users\chico\source\repos\Suma\Suma\bin\Debug\Suma.pdb
+C:\Users\chico\source\repos\Suma\Suma\obj\Debug\MainWindow.baml
+C:\Users\chico\source\repos\Suma\Suma\obj\Debug\Suma.g.resources
+C:\Users\chico\source\repos\Suma\Suma\obj\Debug\Suma.Properties.Resources.resources
+C:\Users\chico\source\repos\Suma\Suma\obj\Debug\Suma.csproj.GenerateResource.cache
+C:\Users\chico\source\repos\Suma\Suma\obj\Debug\Suma.csproj.CoreCompileInputs.cache
+C:\Users\chico\source\repos\Suma\Suma\obj\Debug\Suma.exe
+C:\Users\chico\source\repos\Suma\Suma\obj\Debug\Suma.pdb
